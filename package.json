@@ -9,6 +9,7 @@
   },
   "scripts": {
     "start": "webpack serve --config webpack/webpack.dev.config.js",
+    "watch": "webpack -w --config webpack/webpack.dev.config.js",
     "build": "webpack --config webpack/webpack.dev.config.js"
   },
   "husky": {

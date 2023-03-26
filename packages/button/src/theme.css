@@ -1,6 +1,10 @@
 :root {
-    --rc-button-small-height: 40px;
-    --rc-button-borderRadius: 5px;
-    --rc-button-primary-color: rgb(255, 255, 255);
-    --rc-button-primary-bgColor: rgb(67, 21, 160);
+    --font-button-medium: 16px; 
+    --size-height-medium: 40px;
+    --size-width-medium: 160px;
+    --color-primary: rgb(240, 126, 126);
+    --color-text: rgb(255, 255, 255);
+    --color-primary-hover: rgb(200, 48, 124);
+    --color-primary-active: rgb(126, 32, 79);
+    --border-radius: 20px;
 }
